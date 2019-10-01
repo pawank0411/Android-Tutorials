@@ -17,3 +17,5 @@ _Hello World Program_
 [Tutorials Point](https://www.tutorialspoint.com/android/index.htm)
 
 [Firebase Quickstart Samples for Android](https://github.com/firebase/quickstart-android)
+
+[Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
