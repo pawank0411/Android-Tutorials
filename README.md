@@ -19,3 +19,6 @@ _Hello World Program_
 [Firebase Quickstart Samples for Android](https://github.com/firebase/quickstart-android)
 
 [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
+
+## Sample Projects
+[1000-Projects](https://1000projects.org/projects/android-projects)
