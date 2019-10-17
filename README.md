@@ -1,8 +1,6 @@
 # Android-Tutorials
 Android Tutorials for Beginners
 
-_Hello World Program_
-
 # Requirements
 [Android-Studio 3.1.3](https://developer.android.com/studio/)
 
